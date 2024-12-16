@@ -49,7 +49,7 @@ python audio_sentiment_prediction.py --mode real_time
 ### 2. Predicting from Audio Files
 Provide the path to an audio file for prediction:
 ```bash
-python audio_sentiment_prediction.py --mode recorded --audio_file C:\Users\JoVa994\Documents\Audio_Sentiment_Analysis\Audio-Sentiment-Analysis\aud_data\02\03-01-02-01-01-01-02.wav![image](https://github.com/user-attachments/assets/8a45f906-6d2f-4bbd-b6a0-8f59f994ae71)
+python audio_sentiment_prediction.py --mode recorded --audio_file C:\Users\Vaishnave\Documents\Audio_Sentiment_Analysis\Audio-Sentiment-Analysis\aud_data\02\03-01-02-01-01-01-02.wav
 
 ```
 
