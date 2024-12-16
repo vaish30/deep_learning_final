@@ -77,8 +77,5 @@ To stop real-time recording, press `Ctrl+C`.
 - Ensure the audio device is connected and configured properly for recording.
 - Configure email credentials for alerts if needed.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 Demo video : https://www.loom.com/share/0e3a0b6a817244309580bcd20de41bb4?sid=2ed8bb31-5bf8-4e3c-be4e-70233d447ef2
 ```
