@@ -80,5 +80,3 @@ To stop real-time recording, press `Ctrl+C`.
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 ```
-
-Update the placeholders like `your_script.py`, `model_path`, and email credentials as needed.
